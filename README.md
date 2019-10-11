@@ -32,7 +32,7 @@ Authors
 | Linh                  | [jinachu](https://github.com/jinachu)                 |  
 | Ian                   | [1anmoon](https://github.com/1anmoon)                 |    
 | Ben                   | [quadracation](https://github.com/quadracation)       |     
-| Wassim                | [wass1mkhelifi](https://github.com/wass1mkhelifi)     |     
+| Wassim                | [wassimkhelifi](https://github.com/wassimkhelifi)     |     
 | William               | [wiblwibl](https://github.com/wiblwibl)               |     
 
 <h2> 
